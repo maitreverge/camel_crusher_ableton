@@ -45,6 +45,12 @@ ___
 
 ![download](https://github.com/maitreverge/camel_crusher_ableton/blob/6c7ef41ddc150046b4abf31de29e598ffbe02aab/read_me_pictures/pic_5.png)
 
+or simply run the following command on your CLI :
+
+```
+git clone https://github.com/maitreverge/camel_crusher_ableton.git
+```
+
 + Step 2 : Unzip the file, open the folder and open the file **camel_crusher_ableton_11.als**
 
 [Click here if you're having trouble unzip file on Windows](https://support.microsoft.com/en-us/windows/zip-and-unzip-files-f6dde0a7-0fec-8294-e1d3-703ed85e7ebc)
