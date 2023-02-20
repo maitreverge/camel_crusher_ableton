@@ -42,11 +42,11 @@ The audio engine is still working underneath, so I mapped Camel Crusher's knobs 
 
 ![main_rack_pic](https://github.com/maitreverge/camel_crusher_ableton/blob/1796df1fa5ed69f4ebfd8cbf2bf1e51cd2f1b1c7/read_me_pictures/pic_2.png)
 
-#### Here is what it looks like :
+#### Here is what it looks like comparing the original GUI :
 
 ![arrow](https://github.com/maitreverge/camel_crusher_ableton/blob/1796df1fa5ed69f4ebfd8cbf2bf1e51cd2f1b1c7/read_me_pictures/pic_3.png)
 
-You will easily see that I mapped switches buttons to a traditional CV Ableton knob, from value 0 to 127 :
+You will easily see that I mapped ON/OFF buttons to a traditional CV Ableton knob, from value 0 to 127 :
 + The Distorsion ON/OFF
 + The Filter ON/OFF
 + The Compressor ON/OFF
@@ -84,5 +84,16 @@ ___
 + Step 4 : Making sure it's saved into your library for your own future projects.
 
 ![saved_library](https://github.com/maitreverge/camel_crusher_ableton/blob/6c7ef41ddc150046b4abf31de29e598ffbe02aab/read_me_pictures/pic_8.png)
+
+___
+___
+
+# How to contribue ?
+
+Despite my efforts, feedback would be greatly appreciated, from people running Ableton on Windows and/or macOS.
+
+Consider posting a message, a suggestion on the discussion tab.
+
+If you're confortable using Git, git pull request are welcome, and will be greatly appreciated !
 
 
